@@ -1,5 +1,5 @@
 #include <iostream>
-#include "src/A/A.cpp"
+#include "src/A/A.h"
 
 int	main() {
 	A instance;
